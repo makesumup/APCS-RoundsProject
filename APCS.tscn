@@ -1,9 +1,14 @@
 [gd_scene load_steps=2 format=3 uid="uid://cl13gw8hwd0jj"]
 
-[ext_resource type="Texture2D" uid="uid://bowo7wi1e5bxs" path="res://icon.svg" id="1_r3a85"]
+[ext_resource type="Script" path="res://Button.gd" id="1_jc2ei"]
 
-[node name="Node2D" type="Node2D"]
+[node name="Main" type="Node2D"]
 
-[node name="Node2D" type="Sprite2D" parent="."]
-position = Vector2(146, 123)
-texture = ExtResource("1_r3a85")
+[node name="Play" type="Button" parent="."]
+offset_right = 583.0
+offset_bottom = 268.0
+scale = Vector2(0.934231, 0.901821)
+text = "Play "
+script = ExtResource("1_jc2ei")
+
+[connection signal="pressed" from="Play" to="Play" method="_on_pressed"]

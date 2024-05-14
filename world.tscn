@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://bw34u5rnr6dh6"]
+
+[node name="World" type="Node2D"]
+scale = Vector2(-36.1784, 6.55173)
+
+[node name="Label" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+scale = Vector2(-0.243346, 1.4623)
+text = "This is the World 
+"
