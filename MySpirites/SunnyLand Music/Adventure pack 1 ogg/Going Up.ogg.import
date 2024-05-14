@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cosw2ymahdyw5"
+path="res://.godot/imported/Going Up.ogg-69a0750e6377fd857bfb196b6c0b4fc5.oggvorbisstr"
+
+[deps]
+
+source_file="res://MySpirites/SunnyLand Music/Adventure pack 1 ogg/Going Up.ogg"
+dest_files=["res://.godot/imported/Going Up.ogg-69a0750e6377fd857bfb196b6c0b4fc5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

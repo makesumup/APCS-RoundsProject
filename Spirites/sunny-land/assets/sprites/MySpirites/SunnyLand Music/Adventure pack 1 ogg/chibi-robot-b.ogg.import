@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bhtn3dv240po1"
+path="res://.godot/imported/chibi-robot-b.ogg-f32e15bc7b7483ecd5ac867223ea05db.oggvorbisstr"
+
+[deps]
+
+source_file="res://Spirites/sunny-land/assets/sprites/MySpirites/SunnyLand Music/Adventure pack 1 ogg/chibi-robot-b.ogg"
+dest_files=["res://.godot/imported/chibi-robot-b.ogg-f32e15bc7b7483ecd5ac867223ea05db.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

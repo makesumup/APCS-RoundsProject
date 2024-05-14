@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://xiqspyhajr00"
+path="res://.godot/imported/synthwave-palms.ogg-1a19b90b4524c95b64c82241fbe649cb.oggvorbisstr"
+
+[deps]
+
+source_file="res://addons/AsepriteWizard/creators/sprite_frames/Spirites/SunnyLand Music/adventure pack 2 ogg/synthwave-palms.ogg"
+dest_files=["res://.godot/imported/synthwave-palms.ogg-1a19b90b4524c95b64c82241fbe649cb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
